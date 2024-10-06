@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Sport",
+        "date": "06/10/2024 ore 15:30",
+        "location": "Stadio 'Guido D'Ippolito - Lamezia Terme'",
+        "description": "Quarta gara stagionale, campionato calabrese eccellenza!",
+        "image": "/img/eventocalcio.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Festa dell'uva",
+        "date": "2024-10-10",
+        "location": "Piazza del popolo",
+        "description": "Un evento gastronomico dedicato vino.",
+        "image": "/img/orologio.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Motoraduno",
+        "date": "20/10/2024",
+        "location": "Piazza del popolo, Isola di Capo Rizzuto",
+        "description": "Primo motoraduno del gruppo centauri di Hera di Isola di Capo Rizzuto",
+        "image": "/img/moto.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Concerto di Musica Folk",
+        "date": "2024-11-05",
+        "location": "Teatro Comunale",
+        "description": "Un concerto con artisti locali che suonano musica folk tradizionale. Ingresso gratuito.",
+        "image": "/img/prolocolove.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Mercato di Natale",
+        "date": "2024-12-15",
+        "location": "Centro Storico",
+        "description": "Un mercatino di Natale con artigianato locale, cibo tipico e attività per bambini. Non perdere la magia del Natale!",
+        "image": "/img/proloco.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Corso di Cucina Tradizionale",
+        "date": "2024-10-20",
+        "location": "Cucina della Pro Loco",
+        "description": "Un corso pratico per imparare a cucinare piatti tipici della nostra tradizione culinaria. Prenotazione obbligatoria.",
+        "image": "/img/castello.jpg"
+    }
+]
